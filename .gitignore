@@ -1,0 +1,5 @@
+# Arquivos temporários e configurações locais de editores
+*.tmp
+*.bak
+.vscode/
+.idea/
